@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nroDoc": 123456789,
+    "firstName": "Germán",
+    "lastName": "Ramírez"
+  },
+  {
+    "id": 2,
+    "nroDoc": 123456788,
+    "firstName": "Wilmar",
+    "lastName": "Ortiz"
+  },
+  {
+    "id": 3,
+    "nroDoc": 123456787,
+    "firstName": "Carlos",
+    "lastName": "Pardo"
+  },
+  {
+    "id": 4,
+    "nroDoc": 123456786,
+    "firstName": "Yessika",
+    "lastName": "Plata"
+  },
+  {
+    "id": 5,
+    "nroDoc": 123456785,
+    "firstName": "Mario",
+    "lastName": "Moreno"
+  },
+  {
+    "id": 6,
+    "nroDoc": 123456784,
+    "firstName": "Aderson",
+    "lastName": "Rangel"
+  },
+  {
+    "id": 7,
+    "nroDoc": 123456783,
+    "firstName": "Carlos",
+    "lastName": "Delgado"
+  },
+  {
+    "id": 8,
+    "nroDoc": 123456782,
+    "firstName": "Andrés",
+    "lastName": "Arias"
+  },
+  {
+    "id": 9,
+    "nroDoc": 123456781,
+    "firstName": "Andrés",
+    "lastName": "Rosales"
+  },
+  {
+    "id": 10,
+    "nroDoc": 123456780,
+    "firstName": "Héctor",
+    "lastName": "García"
+  }
+]
